@@ -1,0 +1,16 @@
+﻿Build started 1/21/2015 4:31:03 PM.
+     1>Project "C:\Users\Tom.Tom-Phantom\Documents\Visual Studio 2013\Projects\ASECWReal\ASECWReal\ASECWReal.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         T:\Programs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt joTest.cpp
+         joTest.cpp
+       Link:
+         T:\Programs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tom.Tom-Phantom\Documents\Visual Studio 2013\Projects\ASECWReal\Debug\ASECWReal.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Tom.Tom-Phantom\Documents\Visual Studio 2013\Projects\ASECWReal\Debug\ASECWReal.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tom.Tom-Phantom\Documents\Visual Studio 2013\Projects\ASECWReal\Debug\ASECWReal.lib" /MACHINE:X86 Debug\Clock.obj
+         Debug\joTest.obj
+         Debug\PerformanceTest.obj
+         Debug\TestFramework.obj
+         ASECWReal.vcxproj -> C:\Users\Tom.Tom-Phantom\Documents\Visual Studio 2013\Projects\ASECWReal\Debug\ASECWReal.exe
+     1>Done Building Project "C:\Users\Tom.Tom-Phantom\Documents\Visual Studio 2013\Projects\ASECWReal\ASECWReal\ASECWReal.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.83
